@@ -1,0 +1,16 @@
+baseURL = 'https://raghavnarula.github.io'
+languageCode = 'en-us'
+title = 'Raghav Narula'
+
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/raghavnarula/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/raghav-narula01/"},
+      {Name = "Twitter", URL = "https://twitter.com/raghavnarula01"}
+  ]
+
+[params]
+  description = "Software Developer, etc."
+  layoutReverse = true
